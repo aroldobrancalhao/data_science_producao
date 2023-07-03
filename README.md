@@ -1,6 +1,6 @@
 <h1 align="center"> Predição de vendas das lojas Rossmann</h1> 
 
-<img align="center"  height="450" width="1000" src="https://github.com/FabricioBucher/Rossmann/blob/main/img/rossmann.jpg" >
+<img align="center"  height="450" width="1000" src="https://github.com/aroldobrancalhao/data_science_producao/img/rossmann.jpg" >
 
 
 ## 1.0 Contexto
@@ -17,7 +17,7 @@
 <p> Desta forma entendemos que realmente o modelo de precificação supre a necessidade do CFO, e ele será entregue via bot no Telegram, que permitirá que de qualquer local o CFO possa realizar tal consulta de seu celular e definir sua estratégia de investimentos nas lojas.</p>
 
 - [Fonte de dados](https://www.kaggle.com/c/rossmann-store-sales)
-- [Notebook Link](https://github.com/)
+- [Notebook Link]([https://github.com/](https://github.com/aroldobrancalhao/data_science_producao))
 
 ## 4.0 Descrição dos Dados
 
